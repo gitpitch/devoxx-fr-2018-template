@@ -1,6 +1,6 @@
-# devoxx-fr-2018-template
+# Devoxx France 2018 Conference - Slideshow Template
 
-GitPitch live template for the Devoxx France 2018 Conference
+GitPitch live template for the Devoxx France 2018 Conference.
 
 If you are a speaker at the upcoming Devoxx France 2018 Conference you can use this template to create your slideshow presentation using plain markdown.
 
